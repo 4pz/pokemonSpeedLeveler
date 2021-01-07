@@ -1,5 +1,8 @@
 # pokemonSelfBot
-Spams in channel to create high speed leveling system AND automatically rotates through Pokémon to level up to 100
+Features: 
+1. Fast paced pokemon leveling (Level 100 in around 2 hours)
+2. Automatic Pokemon switching once your pokemon is level 100 (No time wasted)
+3. Ease of use
 
 
 1. Enter directory of download
