@@ -1,6 +1,6 @@
 # pokemonSpeedLeveler
 
-**Features: **
+**Features:**
 1. Fast paced pokemon leveling (Level 100 in around 2 hours)
 2. Automatic Pokemon switching once your pokemon is level 100 (No time wasted)
 3. Ease of use
